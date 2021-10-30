@@ -29,3 +29,6 @@ function chose(uint jobId) public returns (uint) {
  // git add.
  //git commit -m "MENSAGEM”
  //git push -u origin main
+ //git checkout <sua-branch> && git pull origin <sua-branch>
+ //leia com atenção: se você não quer as alterações que estão no remoto, e quer sobrescrever tudo que está lá com o repositório local, use COM CUIDADO o comando abaixo.
+ //git push origin <sua-branch> --force
