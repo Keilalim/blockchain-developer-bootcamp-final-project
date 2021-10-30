@@ -1,0 +1,24 @@
+<html>
+  <head>
+     <script src="https://unpkg.com/bsv@1.5.4/bsv.min.js"></script>
+     <script src="https://www.moneybutton.com/moneybutton.js"></script>
+     </head>
+     <input type="text" id='text' onkeyup="render()">
+     <div id="mb"></div>
+//method above
+  </html>
+  <scritp>
+  render = () => { 
+      const div = document.getElementById('mb');
+      const text = document.getElementById9'txt').value;
+      const script = bsv.Script.buildSafeDataOut(['moneybutton.com', 'utf8', 'hello. how are you?']).toASM();
+      \\entender e ajustar 
+      moneyButton.render(div, {
+        outputs: [{
+            script,
+            amount: '0',
+            currency: 'BSV'
+    }]
+  })
+  }
+  </scritp>
