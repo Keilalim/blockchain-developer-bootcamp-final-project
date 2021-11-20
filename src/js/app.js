@@ -3,7 +3,7 @@ App = {
   contracts: {},
 
   init: async function() {
-       $.getJSON('../jobs.json', function(data) {
+       $.getJSON('../doobem.json', function(data) {
       var jobsRow = $('#jobsRow');
       var jobTemplate = $('#jobTemplate');
 
