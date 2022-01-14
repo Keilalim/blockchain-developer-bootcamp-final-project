@@ -1,18 +1,18 @@
 [
   {
     "id": 0,
-    "name": "Help Feed",
-    "picture": "images/children.jpeg",
-    "credits": 3,
-    "Category": "Feed",
+    "name": "Clean Up",
+    "picture": "images/nature.jpeg",
+    "credits": 5,
+    "Category": "Cleaning",
     "location": "Lar São Domingos"
   },
   {
     "id": 1,
-    "name": "Help Feed",
+    "name": "Teach Childrens",
     "picture": "images/children.jpeg",
-    "credits": 3,
-    "Category": "Feed",
+    "credits": 6,
+    "Category": "Teach",
     "location": "Lar São Domingos"
   },
   {
@@ -25,103 +25,7 @@
   },
   {
     "id": 3,
-    "name": "Help Feed",
-    "picture": "images/children.jpeg",
-    "credits": 3,
-    "Category": "Feed",
-    "location": "Lar São Domingos"
-  },
-  {
-    "id": 4,
-    "name": "Help Feed",
-    "picture": "images/children.jpeg",
-    "credits": 3,
-    "Category": "Feed",
-    "location": "Lar São Domingos"
-  },
-  {
-    "id": 5,
-    "name": "Help Feed",
-    "picture": "images/children.jpeg",
-    "credits": 3,
-    "Category": "Feed",
-    "location": "Lar São Domingos"
-  },
-  {
-    "id": 6,
-    "name": "Help Feed",
-    "picture": "images/children.jpeg",
-    "credits": 3,
-    "Category": "Feed",
-    "location": "Lar São Domingos"
-  },
-  {
-    "id": 7,
-    "name": "Help Feed",
-    "picture": "images/children.jpeg",
-    "credits": 3,
-    "Category": "Feed",
-    "location": "Lar São Domingos"
-  },
-  {
-    "id": 8,
-    "name": "Help Feed",
-    "picture": "images/children.jpeg",
-    "credits": 3,
-    "Category": "Feed",
-    "location": "Lar São Domingos"
-  },
-  {
-    "id": 9,
-    "name": "Help Feed",
-    "picture": "images/children.jpeg",
-    "credits": 3,
-    "Category": "Feed",
-    "location": "Lar São Domingos"
-  },
-  {
-    "id": 10,
-    "name": "Help Feed",
-    "picture": "images/children.jpeg",
-    "credits": 3,
-    "Category": "Feed",
-    "location": "Lar São Domingos"
-  },
-  {
-    "id": 11,
-    "name": "Help Feed",
-    "picture": "images/children.jpeg",
-    "credits": 3,
-    "Category": "Feed",
-    "location": "Lar São Domingos"
-  },
-  {
-    "id": 12,
-    "name": "Help Feed",
-    "picture": "images/children.jpeg",
-    "credits": 3,
-    "Category": "Feed",
-    "location": "Lar São Domingos"
-  },
-  {
-    "id": 13,
-    "name": "Help Feed",
-    "picture": "images/children.jpeg",
-    "credits": 3,
-    "Category": "Feed",
-    "location": "Lar São Domingos"
-  },
-  {
-    "id": 14,
-    "name": "Help Feed",
-    "picture": "images/children.jpeg",
-    "credits": 3,
-    "Category": "Feed",
-    "location": "Lar São Domingos"
-  },
-  {
-    "id": 15,
-    "name": "Help Feed",
+    "name": "To Cook",
     "picture": "images/children.jpeg",
     "credits": 3,
     "Category": "Feed",
